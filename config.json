@@ -1,0 +1,9 @@
+{
+  "url": "https://docs.crawl4ai.com/",
+  "max_concurrent": 5,
+  "max_retries": 3,
+  "output_dir": "crawled_data",
+  "base_url": "http://localhost:11434",
+  "model": "llama3.2:3b",
+  "embed_model": "nomic-embed-text"
+}
